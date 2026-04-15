@@ -1,0 +1,5 @@
+ # Standard virtual environment folder names
+venv/
+.venv/
+env/
+.env/
