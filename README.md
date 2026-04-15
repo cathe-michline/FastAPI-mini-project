@@ -42,11 +42,17 @@ Background scheduler for automated task processing
 
 app/
 │
+
 ├── main.py        # Entry point for the FastAPI app
+
 ├── models.py      # SQLAlchemy models and schema definitions
+
 ├── database.py    # Database connection setup
+
 ├── jobs.py        # Background task scheduler logic
-🔑 Key Concepts
+
+**🔑 Key Concepts
+**
 API design and request handling
 Database schema and relationships
 ORM-based data management with SQLAlchemy
